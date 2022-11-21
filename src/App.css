@@ -1,0 +1,108 @@
+.orange {
+  display: grid;
+  grid-template-columns: 500px auto;
+  gap: 10px;
+}
+
+.margin{
+  margin-top:20px ;
+  margin-left: 250px;
+}
+
+.email1{
+  padding:5px 5px 5px ;
+  width: 500px;
+
+}
+.mobile1{
+  padding:5px 5px 5px;
+  width: 500px;
+}
+.password1{
+  padding:5px 5px 5px ;
+  width: 500px;
+}
+.form-button{
+  padding: 10px;
+  margin-top: 10px;
+  border:1px solid ;
+  width: 500px;
+  text-align: center;
+  color: black;
+  background-color: #ff7900;
+  border: none;
+  
+  
+  
+}
+
+.form-button:hover{
+  padding: 10px;
+  margin-top: 10px;
+  border:1px solid ;
+  width: 500px;
+  text-align: center;
+  color: white;
+  background-color: black;
+  
+}
+.form-button2{
+  padding: 10px;
+  margin-top: 10px;
+  border:2px solid black ;
+  width: 500px;
+  text-align: center;
+  color: black;
+  background-color: white;
+  
+}
+  .form-button2:hover{
+  padding: 10px;
+  margin-top: 10px;
+  border:2px solid black ;
+  width: 500px;
+  text-align: center;
+  color: white;
+  background-color: black;
+  
+}
+/* ///////////////////// */
+
+.orange {
+  display: grid;
+  grid-template-columns: 500px auto;
+  gap: 10px;
+}
+.margin{
+  margin-top:20px ;
+  margin-left: 250px;
+}
+
+.email{
+  padding:5px 5px 5px ;
+  width: 500px;
+}
+.password{
+  padding:5px 5px 5px;
+  width: 500px;
+}
+.form-button{
+  padding: 10px;
+  margin-top: 10px;
+  border:1px solid ;
+  width: 500px;
+  text-align: center;
+  color: black;
+  background-color: #ff7900;
+  border: none;
+}
+.form-button:hover{
+  padding: 10px;
+  margin-top: 10px;
+  border:1px solid ;
+  width: 500px;
+  text-align: center;
+  color: white;
+  background-color: black;
+
+}
